@@ -5,4 +5,4 @@ This is the C code for 51 MCU that controls the robot. We designed and built a d
 
 The mini-robot looks like:
 
-![image](https://github.com/qiyan98/Mini-mobile-robot/blob/master/img1.png)
+![image](https://github.com/yunke-l/Mini-mobile-robot/blob/main/img1.png)
